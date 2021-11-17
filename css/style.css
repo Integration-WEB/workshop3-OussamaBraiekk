@@ -21,6 +21,14 @@ body {
   top: 50%;
 }
 
+a{
+  color: white;
+  margin: 10px;
+}
+
+a:hover{
+  color: red;
+}
 
 
 /*============= FOOTER =============*/
